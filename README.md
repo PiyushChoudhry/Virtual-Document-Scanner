@@ -8,7 +8,7 @@ Unlock the future of document handling with our cutting-edge Virtual Document Sc
 - **Seamless Integration**: Designed to work smoothly with any webcam, making it incredibly versatile and easy to use.
 - **Enhanced Visualization**: See the magic happen with our side-by-side image display, showing both the original and the processed, warp-corrected document.
 
-#### How It Works:
+# How It Works:
 1. **Capture**: The webcam captures video frames, setting the stage for real-time document scanning.
 2. **Preprocess**: Frames are converted to grayscale, blurred, and processed to highlight edges and contours.
 3. **Detect**: The largest quadrilateral contour is detected, assumed to be your document.
